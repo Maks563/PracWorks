@@ -1,0 +1,8 @@
+C:\Users\Namik\source\repos\lb6\lb6\bin\Debug\lb6.exe.config
+C:\Users\Namik\source\repos\lb6\lb6\bin\Debug\lb6.exe
+C:\Users\Namik\source\repos\lb6\lb6\bin\Debug\lb6.pdb
+C:\Users\Namik\source\repos\lb6\lb6\obj\Debug\lb6.csproj.AssemblyReference.cache
+C:\Users\Namik\source\repos\lb6\lb6\obj\Debug\lb6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Namik\source\repos\lb6\lb6\obj\Debug\lb6.csproj.CoreCompileInputs.cache
+C:\Users\Namik\source\repos\lb6\lb6\obj\Debug\lb6.exe
+C:\Users\Namik\source\repos\lb6\lb6\obj\Debug\lb6.pdb

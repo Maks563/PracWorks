@@ -1,0 +1,8 @@
+C:\Users\Namik\source\repos\la5\la5\bin\Debug\la5.exe.config
+C:\Users\Namik\source\repos\la5\la5\bin\Debug\la5.exe
+C:\Users\Namik\source\repos\la5\la5\bin\Debug\la5.pdb
+C:\Users\Namik\source\repos\la5\la5\obj\Debug\la5.csproj.AssemblyReference.cache
+C:\Users\Namik\source\repos\la5\la5\obj\Debug\la5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Namik\source\repos\la5\la5\obj\Debug\la5.csproj.CoreCompileInputs.cache
+C:\Users\Namik\source\repos\la5\la5\obj\Debug\la5.exe
+C:\Users\Namik\source\repos\la5\la5\obj\Debug\la5.pdb
